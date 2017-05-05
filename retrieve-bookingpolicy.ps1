@@ -1,4 +1,4 @@
-# add the Exchange powershell snapin for on-premises Exchange
+# add the Exchange powershell snapin for on-premises Exchange 2010 environment; may be different for Exchange 2013/2016
 
 Add-PSSnapin Microsoft.Exchange.Management.Powershell.SnapIn
 
